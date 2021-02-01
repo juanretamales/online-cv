@@ -8,19 +8,19 @@ sidebar:
 
     # Profile information
     name: Juan Pablo Retamales Lepe
-    tagline: Full Stack Developer
+    tagline: Analista de datos y Desarrollador de aplicaciones
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jua.retamales@gmail.com
     phone: +56 951 170 428
-    website: blog.webjeda.com #do not add http://
+    website: juanretamales.cl #do not add http://
     linkedin: juanretamales
     github: juanretamales
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@JuanRetamalesL'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,13 +33,13 @@ sidebar:
         level: Medio
 
     interests:
-      - item: Climbing
+      - item: Hardware y Tecnologia
         link:
 
-      - item: Snowboarding
+      - item: Videojuegos y juegos de mesa
         link:
 
-      - item: Cooking
+      - item: Programación
         link:
 
 career-profile:
