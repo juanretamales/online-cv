@@ -45,16 +45,16 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Líder de proyectos informáticos, titulado en ingeniería civil en informática en USACH e ingeniería en informática de 
-      Duoc UC, con experiencia en el diseño, construcción e implementación de soluciones e-business y e-comerce con 
-      tecnología de la información. Experiencia extrallendo informacion y automatizando tareas, ademas de crear reportes 
-      en Power Bi.
+      Líder de proyectos informáticos, titulado en ingeniería civil en informática en USACH e ingeniería en informática de 
+      Duoc UC, con experiencia en el diseño, construcción e implementación de soluciones e-business y e-comerce con 
+      tecnología de la información. Experiencia extrayendo información y automatizando tareas, ademas de crear reportes 
+      en Power Bi.
 education:
     - degree: Ingeniero Civil en Informática
       university: Universidad de Santiago de Chile
       time: 2016 - 2019
       details: |
-        Titulado en ingeniería civil en informatica, con experiencia en proyectos 
+        Titulado en ingeniería civil en informática, con experiencia en proyectos 
         de alta envergadura de asignaturas electivas de redes neuronales, 
         computación de alto rendimiento, y dirección y gestión de empresas.
 
@@ -91,11 +91,11 @@ experiences:
       time: 2014 - 2017
       company: Freelance
       details: |
-        Instalación, configuración y personalización de wordpress, 
-        así como sus plugin, desarrollo personalizado de plantillas y 
-        migraciones del sitio. Entre los sitios trabajados destaco 
-        frauleinnico.cl con su sistema de newsletter en servidor 
-        externo y con plantilla personalizada en dos ocaciones.
+        Instalación, configuración y personalización de wordpress, 
+        así como sus plugin, desarrollo personalizado de plantillas y 
+        migraciones del sitio. Entre los sitios trabajados destaco 
+        frauleinnico.cl con su sistema de newsletter en servidor 
+        externo y con plantilla personalizada en dos ocasiones.
 
 skills:
     title: Habilidades
