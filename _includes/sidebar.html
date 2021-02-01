@@ -24,10 +24,10 @@
   {% endif %}
 
   {% include language.html %}
-  {% include interests.html %}
+  {% comment %} {% include interests.html %} {% endcomment %}
 
-  {% if sidebar.about %}
+  {% comment %} {% if sidebar.about %}
     {% include about.html %}
-  {% endif %}
+  {% endif %} {% endcomment %}
 
 </div><!--//sidebar-wrapper-->
