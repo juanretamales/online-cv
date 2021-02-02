@@ -58,7 +58,8 @@ experiences:
       details: |
         Experiencia en el desarrollo de informes en Power Bi, incluyendo 
         normalización de datos. Ademas desarrollando automatizaciones y
-        extracción de datos en Python. 
+        extracción de datos (Scraping) en Python en distintos sitios como Transbank, 
+        Banco Santander, Uber Eats, entre otros.
 
     - role: Estudiante - Python
       time: 2017 - 2018
@@ -89,11 +90,17 @@ skills:
       - name: Python
         level: 68%
 
-      - name: Javascript & jQuery
-        level: 50%
+      - name: Power Bi
+        level: 53%
 
-      - name: PHP
-        level: 58%
+      - name: Git & Github
+        level: 43%
 
       - name: HTML5 & CSS
         level: 65%
+
+      - name: Javascript
+        level: 48%
+
+      - name: PHP
+        level: 58%
