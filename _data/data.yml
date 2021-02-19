@@ -25,6 +25,23 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    languages:
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Ingles
+        level: Medio y en formación
+
+    interests:
+      - item: Anime
+        link:
+
+      - item: Manga
+        link:
+
+      - item: Video Juegos
+        link:
+
 career-profile:
     title: Perfil Profesional
     summary: |
@@ -52,15 +69,19 @@ education:
         Innovación de Transferencia Tecnológica y del taller de RFID.
 
 experiences:
+    - role: Extracción de datos e importacion a db
+      time: 2021
+      company: Freelance
+      details: |
+        Experiencia en el desarrollo de automatizaciones y extracción de datos (Scraping) en Python para el portal de Lukas Lok Spa, para la generación de reportes para los diversos clientes.
+
     - role: Analista de datos y Desarrollador de aplicaciones
       time: 2020
       company: SoluData Spa
       details: |
-        Experiencia en el desarrollo de informes en Power Bi, incluyendo 
-        normalización de datos. Ademas desarrollando automatizaciones y
-        extracción de datos (Scraping) en Python en distintos sitios como Transbank, 
-        Banco Santander, Uber Eats, entre otros. También se colaboro en el proceso de
-        creación de modelos predictivos para el turismo en la región de Atacama.
+        Experiencia en el desarrollo de informes en Power Bi, incluyendo normalización de datos. Ademas desarrollando automatizaciones y
+        extracción de datos (Scraping) en Python en distintos sitios como Transbank, Banco Santander, Uber Eats, entre otros. También se colaboro en el proceso de creación de modelos predictivos para el turismo en la 
+        región de Atacama.
 
     - role: Estudiante - Python
       time: 2017 - 2018
@@ -74,14 +95,14 @@ experiences:
         y un clasificador de calidad de segmentación de órganos en 
         archivos DICOM.
 
-    - role: Desarrollador de Wordpress
-      time: 2014 - 2017
-      company: Freelance
-      details: |
-        Instalación, configuración y personalización de wordpress, así como sus plugin, 
-        desarrollo personalizado de plantillas y migraciones del sitio. Entre los 
-        sitios trabajados destaco frauleinnico.cl con su sistema de newsletter en 
-        servidor externo y con plantilla personalizada en dos ocasiones.
+    # - role: Desarrollador de Wordpress
+    #   time: 2014 - 2017
+    #   company: Freelance
+    #   details: |
+    #     Instalación, configuración y personalización de wordpress, así como sus plugin, 
+    #     desarrollo personalizado de plantillas y migraciones del sitio. Entre los 
+    #     sitios trabajados destaco frauleinnico.cl con su sistema de newsletter en 
+    #     servidor externo y con plantilla personalizada en dos ocasiones.
 
 skills:
     title: Habilidades
