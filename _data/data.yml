@@ -73,7 +73,8 @@ experiences:
       time: 2021
       company: Freelance
       details: |
-        Experiencia en el desarrollo de automatizaciones y extracción de datos (Scraping) en Python para el portal de Lukas Lok Spa, para la generación de reportes para los diversos clientes.
+        Experiencia en el desarrollo de automatizaciones y extracción de datos (Scraping) en Python 
+        para el portal de Lukas Lok Spa, para la generación de reportes para los diversos clientes.
 
     - role: Analista de datos y Desarrollador de aplicaciones
       time: 2020
@@ -84,7 +85,7 @@ experiences:
         región de Atacama.
 
     - role: Estudiante - Python
-      time: 2017 - 2018
+      time: 2017 - 2019
       company: Usach
       details: |
         Procesamiento de imágenes y desarrollo de redes neuronales en 
