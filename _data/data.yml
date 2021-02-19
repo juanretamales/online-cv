@@ -59,7 +59,8 @@ experiences:
         Experiencia en el desarrollo de informes en Power Bi, incluyendo 
         normalización de datos. Ademas desarrollando automatizaciones y
         extracción de datos (Scraping) en Python en distintos sitios como Transbank, 
-        Banco Santander, Uber Eats, entre otros.
+        Banco Santander, Uber Eats, entre otros. También se colaboro en el proceso de
+        creación de modelos predictivos para el turismo en la región de Atacama.
 
     - role: Estudiante - Python
       time: 2017 - 2018
@@ -77,11 +78,10 @@ experiences:
       time: 2014 - 2017
       company: Freelance
       details: |
-        Instalación, configuración y personalización de wordpress, así 
-        como sus plugin, desarrollo personalizado de plantillas y 
-        migraciones del sitio. Entre los sitios trabajados destaco 
-        frauleinnico.cl con su sistema de newsletter en servidor 
-        externo y con plantilla personalizada en dos ocasiones.
+        Instalación, configuración y personalización de wordpress, así como sus plugin, 
+        desarrollo personalizado de plantillas y migraciones del sitio. Entre los 
+        sitios trabajados destaco frauleinnico.cl con su sistema de newsletter en 
+        servidor externo y con plantilla personalizada en dos ocasiones.
 
 skills:
     title: Habilidades
