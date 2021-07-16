@@ -75,6 +75,7 @@ experiences:
       details: |
         Experiencia en el desarrollo de automatizaciones y extracción de datos (Scraping) en Python 
         para el portal de Lukas Lok Spa, para la generación de reportes para los diversos clientes.
+        Ademas de publicacion de la biblioteca 'DataframeToDB' en el repositorio oficial de python pypi, el cual ayuda en la exportacion de datos a bases de datos relacionales.
 
     - role: Analista de datos y Desarrollador de aplicaciones
       time: 2020
